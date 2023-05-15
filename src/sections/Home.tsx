@@ -23,6 +23,7 @@ function Home() {
 
   return (
     <div className="home">
+        
         <div className='h-back'>
         <div className="h-header">
             <img src={netlfix} alt="" className='h-netflix'/>
