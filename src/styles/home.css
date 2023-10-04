@@ -102,7 +102,7 @@ justify-content: space-between;
     font-weight: 900;
     font-family: sans-serif;
     text-align: center;
-
+    max-width: 900px;
     margin:8px;
     padding:0;
 }
@@ -731,7 +731,7 @@ text-align: center;
     }
     .h-cont h1 {
         font-size: 2.1rem;
-      
+        
     }
  
     .h-email-cont {
